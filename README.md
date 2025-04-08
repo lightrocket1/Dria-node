@@ -77,43 +77,9 @@ https://dria.co/edge-ai
 https://form.typeform.com/to/Eav42hR3?typeform-source=www.google.com
 
 
-👉 **Join TG for more Updates:** https://telegram.me/cryptogg
-
-Thank U❤️
 
 
 
-
-
-
-
-
-  # **Guide, How to changes Model's  {Ollama to Gemini API!}**
-
-**This is for all but mainly only for those who's Device is not capable for Running Oallam or those whom The ollama is not Working~**
-
-👉 Firstly u have to stop ur node (If its Running)
-
-👉 Delete Ur Dria Directory with this command
-
-🔺Linux/Mac 
-```
-sudo rm -rf .dria
-```
-
-🔺Window (In Powershell)
-
-```
-Remove-Item -Path "$HOME\Downloads\launcher.ps1", "$HOME\AppData\Local\Temp\launcher.ps1" -Force -ErrorAction SilentlyContinue
-```
-
-👉Install Ur dria Launcher again
-
-👉Start Ur node with start command
-
-👉Select `Gemini` instead of Ollama (Check SS)
-
-![Screenshot 2025-03-22 162646](https://github.com/user-attachments/assets/412fc2c7-d191-4387-bed2-1a1fef6de19e)
 
 👉Choose Model's (check ss)     -- U can Choose One or both👇
 
@@ -128,6 +94,4 @@ gemini-1.5-pro
 U can get Gemini API key From here--  https://aistudio.google.com/app/apikey
 
 
-Lets Fucking Go🚀 Its Done✅
 
-Thank u❤️
